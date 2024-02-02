@@ -24,7 +24,7 @@ sirven para mostrar datos organizadamente
 | andres | humor | -1000 |
 
 # enlaces
-[Este es un enlace](https://www.google.com)
+[Este es un enlace](comandosgit.md)
 # imagen
 [imagen logotipo](markdown.png)
 
